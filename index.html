@@ -74,10 +74,15 @@
   <a href="./Contacts">Contacts</a>
   <a href="./About">About Us</a>
  
-  <input type="button" value="Go" onclick="search(document.getElementById('search').value)">
+  <input id="btn1" type="button" value="Go" onclick="search(document.getElementById('search').value)">
    <input id="search" onkeyup="search1()" type="text" placeholder="Search within page..">
   <!-- linking javascript  <script src="./search1.js"></script> -->
     <script>
+	    document.getElementById('search').onkeypress=function(e){
+    if(e.keyCode==13){
+        document.getElementById('btn1').click();
+    }
+}
   function search(string){
 window.find(string);
 }
