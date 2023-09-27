@@ -2,7 +2,7 @@
 
 .container {
 		
-		background-image: linear-gradient(rgba(0,0,50,0.8), rgba(0,0,50,0.8)), url(cc1.jpg);
+		background-image: linear-gradient(rgba(0,0,50,0.7), rgba(0,0,50,0.7)), url(cc1.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center center;
@@ -121,9 +121,11 @@
   margin-top: 8px;
   margin-right: 16px;
   border: 1px solid black;
+ 
 	vertical-align:middle;
   
 }
+
 
 
 <!--
@@ -269,10 +271,7 @@ a {
     color: white;
   }
   
-   h4 {
-    color: white;
-	
-  }
+  
 
 
     
@@ -376,4 +375,3 @@ h3 {
  background-color:rgba(203, 201, 230, 0.5);
 	color: white:
 }			
-
