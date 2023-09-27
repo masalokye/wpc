@@ -41,6 +41,7 @@
 	.header0 {
 	text-align: right;
 	font-weight: bold;
+		color: white;
 	  }
 	  
 	 
@@ -214,15 +215,15 @@ float: left;margin-right:10px;
 border: 1px solid black;
 }
 
-.caption1 {
+.table0 caption {
 	font-style: bold;
+	color: white;
 }
 
-.caption2 {
+
+.table3 caption {
 	font-style: bold;
-}
-.caption33 {
-	font-style: bold;
+	color: white;
 }
 
 .table2 {
@@ -268,11 +269,11 @@ border: 1px solid black;
 	}
 	
 a {
-    color: black;
+    color: white;
   }
   
    h4 {
-    color: black;
+    color: white;
 	
   }
 
@@ -376,5 +377,6 @@ display: block;
 	  }
 h3 {
  background-color:rgba(203, 201, 230, 0.5);
+	color: white:
 }			
 
