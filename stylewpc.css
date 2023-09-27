@@ -117,17 +117,14 @@
 
 .topnav input[type=button] {
   float: right;
-  padding: 6px;
+  padding: 8px;
   margin-top: 8px;
   margin-right: 16px;
   border: 1px solid black;
+	vertical-align:middle;
   
 }
 
-.topnav input[type=button] {
-    border: 1px solid #ccc;  
-	vertical-align:middle;
-  }
 
 <!--
 @media screen and (max-width: 600px) {
