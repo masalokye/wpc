@@ -143,7 +143,7 @@
 -->
 
 .nonprofit {
-    color: white;
+    color: black;
 	font-style: italic;
 	text-align: center;
   }
@@ -216,13 +216,13 @@ border: 1px solid black;
 
 .table0 caption {
 	font-style: bold;
-	color: white;
+	color: black;
 }
 
 
 .table3 caption {
 	font-style: bold;
-	color: white;
+	color: black;
 }
 
 .table2 {
@@ -258,7 +258,7 @@ border: 1px solid black;
 	border: 2px inset #2c26f4;
 	}
 	.ftr1 {
-		color:black;
+		color: black;
 	}
 	
 	.terms {
@@ -268,7 +268,7 @@ border: 1px solid black;
 	}
 	
 a {
-    color: white;
+    color: black;
   }
   
   
