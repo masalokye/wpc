@@ -37,11 +37,34 @@
 	font-weight: bold;
 }
 
+.div1 {
+
+  align-items: center;
+	margin-left: 5px;
+  margin-top: 8px;
+ 
+}
+.circle {
+  width: 45px;
+  height: 35px;
+  line-height: 35px;
+  border-radius: 50%;
+  font-size: 15px;
+  color: #fff;
+  text-align: center;
+  background: rgba(0, 0, 0, 0.7);
+  float:left
+  
+  
+   
+}
 
 	.header0 {
 	text-align: right;
 	font-weight: bold;
 		color: black;
+		margin-top: 8px;
+  margin-right: 10px;
 	  }
 	  
 	 
@@ -322,32 +345,7 @@ img {
      
 	}
 	
-		
-
-.circle {
-  width: 45px;
-  height: 35px;
-  line-height: 35px;
-  border-radius: 50%;
-  font-size: 15px;
-  color: #fff;
-  text-align: center;
-  background: rgba(0, 0, 0, 0.7);
-  float:left
-  
-  
-   
-}
-
-.div1 {
-
-  align-items: center;
- 
-}
-
-
-
-
+	
 .img1 {
 height: 48px;
 width: 70%;
