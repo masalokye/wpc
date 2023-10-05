@@ -427,16 +427,23 @@ input[type="button1"] {
 }
 
 
-
+.para1 {
+	text-align: center;
+  padding-top: 10px;
+  font-size: 15px;
+	color: black;
+}
 
 .para-2 {
   text-align: center;
-  color: white;
+  color: black;
   font-size: 15px;
   margin-top: -10px;
   padding-top: 10px;
   
 }
+
+
 .para-2 a {
   color: #49c1a2;
 }
@@ -476,8 +483,4 @@ color: white;
 
 
 
-.para1 {
-	text-align: center;
-  padding-top: 10px;
-  font-size: 15px;
-}
+
