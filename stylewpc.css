@@ -401,9 +401,12 @@ form label {
   display: flex;
   margin-top: 20px;
   font-size: 18px;
+	color: white;
 	
 }
-
+.ls1, .ls4 {
+color: white;
+}
 
 form input {
   width: 100%;
@@ -412,6 +415,7 @@ form input {
   border: 1px solid gray;
   border-radius: 6px;
   outline: none;
+	color: white;
 }
 
 input[type="button1"] {
@@ -463,9 +467,7 @@ input[type="button1"] {
 .signup-box .col2 {
     width: 49%;
 }
-.ls1, .ls4 {
-color: white;
-}
+
 
 .signup-box .col1 {
     float: left;
