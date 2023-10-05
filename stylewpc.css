@@ -379,11 +379,12 @@ h3 {
 
 .login-box {
   width: 350px;
-  height: 260px;
+  height: 280px;
   margin: auto;
   border-radius: 3px;
   background-color:rgba(203, 201, 230, 0.5);
   text-align: center;
+	border-style: double;
 }
 
 .login-box form {
@@ -441,12 +442,13 @@ input[type="button1"] {
 
 .signup-box {
   width: 640px;
-  height: 650px;
+  height: 680px;
   margin: auto;
   background-color:rgba(203, 201, 230, 0.5);
   border-radius: 3px;
   text-align: center;
   overflow: hidden;
+	border-style: double;
 }
 
 .signup-box .col1,
