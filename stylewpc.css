@@ -382,7 +382,7 @@ h3 {
   height: 280px;
   margin: auto;
   border-radius: 3px;
-  background-color:rgba(203, 201, 230, 0.5);
+  background-color:rgba(2, 3, 99, 0.8);
   text-align: center;
 	border-style: double;
 }
@@ -430,7 +430,7 @@ input[type="button1"] {
 
 .para-2 {
   text-align: center;
-  color: black;
+  color: white;
   font-size: 15px;
   margin-top: -10px;
   padding-top: 10px;
@@ -444,7 +444,7 @@ input[type="button1"] {
   width: 640px;
   height: 680px;
   margin: auto;
-  background-color:rgba(203, 201, 230, 0.5);
+  background-color:rgba(2, 3, 99, 0.8);
   border-radius: 3px;
   text-align: center;
   overflow: hidden;
