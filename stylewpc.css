@@ -401,7 +401,7 @@ form label {
   display: flex;
   margin-top: 20px;
   font-size: 18px;
-	color: white;
+	
 }
 
 
@@ -456,13 +456,18 @@ input[type="button1"] {
 .signup-box .col2 {
     width: 49%;
 }
+.ls1, .ls4 {
+color: white;
+}
 
 .signup-box .col1 {
     float: left;
+	color: white;
 }
 
 .signup-box .col2 {
     float: right;
+	color: white;
 }
 
 .signup-box label {
