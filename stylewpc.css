@@ -415,7 +415,7 @@ form input {
   border: 1px solid gray;
   border-radius: 6px;
   outline: none;
-	color: white;
+	color: black;
 }
 
 input[type="button1"] {
