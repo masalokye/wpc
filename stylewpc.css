@@ -167,6 +167,16 @@
 				height: 60px;
 	  background-color:rgba(31, 92, 176, 0.8);
 }
+ .marq {
+		
+		width: 100%;
+	 
+				padding: 5px;
+				height: 60px;
+	  background-color:rgba(212, 175, 55, 0);
+}
+
+
 .sponsorsLogos img {
                     height: 50px;
                     width: 50px;
