@@ -175,6 +175,8 @@
 				padding: 5px;
 				height: 60px;
 	  background-color:rgb(212, 175, 55);
+	 align-items: center;
+  justify-content: center;
 }
 
 
