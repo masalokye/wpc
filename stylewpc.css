@@ -498,11 +498,7 @@ input[type="button1"] {
   	justify-content: center;
 
 	text-align: center;
-				font-size: 25px;
-				
-				color: bronze;
-				
-				display: flex;
+			color: bronze;	
 
   font-weight: bold;
 }
