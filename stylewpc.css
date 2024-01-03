@@ -492,13 +492,17 @@ input[type="button1"] {
 .marq {
 	width: 100%;
 	padding: 5px;
-	height: 50px;
+	height: 45px;
 	background-color:rgb(212, 175, 55);
 	align-items: center;
   	justify-content: center;
 
 	text-align: center;
-			color: bronze;	
+		font-size: 20px;
+				
+				
+				
+				display: flex;	
 
   font-weight: bold;
 }
