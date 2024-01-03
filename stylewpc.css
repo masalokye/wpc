@@ -167,17 +167,7 @@
 				height: 60px;
 	  background-color:rgba(31, 92, 176, 0.8);
 }
- .marq {
-		
-		text-align: center;
-	        width: 100%;
-	 
-				padding: 5px;
-				height: 60px;
-	  background-color:rgb(212, 175, 55);
-	 align-items: center;
-  justify-content: center;
-}
+ 
 
 
 .sponsorsLogos img {
@@ -499,6 +489,23 @@ input[type="button1"] {
     display: block;
 }
 
+.marq {
+	width: 100%;
+	padding: 5px;
+	height: 50px;
+	background-color:rgb(212, 175, 55);
+	align-items: center;
+  	justify-content: center;
+
+	text-align: center;
+				font-size: 25px;
+				
+				color: bronze;
+				
+				display: flex;
+
+  font-weight: bold;
+}
 
 .snowflake {
   color: #fff;
