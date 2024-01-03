@@ -71,6 +71,16 @@
   font-weight: bold;
 				}
 
+	.header1 img {
+                    height: 35px;
+                    width: 35px;
+					border-radius: 50%;
+					vertical-align:middle;
+					 margin-right:5px;
+                    margin-left: 5px;
+					
+                }
+
 		
 		.topnav {
   overflow: hidden;
@@ -496,16 +506,21 @@ input[type="button1"] {
 	background-color:rgb(212, 175, 55);
 	align-items: center;
   	justify-content: center;
-
-	text-align: center;
+text-align: center;
 		font-size: 20px;
-				
-				
-				
-				display: flex;	
-
-  font-weight: bold;
+			display: flex;	
+font-weight: bold;
 }
+
+.marq img {
+                    height: 25px;
+                    width: 25px;
+					border-radius: 50%;
+					vertical-align:middle;
+					 margin-right:5px;
+                    margin-left: 5px;
+					
+                }
 
 .snowflake {
   color: #fff;
