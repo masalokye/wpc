@@ -252,7 +252,15 @@ float: left;margin-right:10px;
 border: 1px solid black;
 }
 
-#xltable {
+#xltable table {
+  border: 1px solid black;
+margin-left: 40px;
+  margin-right: 40px;
+ color: black;
+  border-collapse: collapse;
+}
+
+#xltable th, tr, td {
 background: rgba(227, 215, 2);
 
 border: 1px solid black;
